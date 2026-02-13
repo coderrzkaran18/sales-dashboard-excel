@@ -25,7 +25,7 @@ These slicers allow dynamic dashboard interaction.
 - Data Cleaning  
 
 ## 🔹 Dashboard Preview
-![Dashboard](https://github.com/coderrzkaran18/sales-dashboard-excel/blob/main/Excel_project1/Screenshot%202026-02-13%20121207.png)
+![Dashboard](Excel_project1/Screenshot 2026-02-13 121207.png)
 
 ## 🔹 Files in Repository
 - Excel dashboard file
