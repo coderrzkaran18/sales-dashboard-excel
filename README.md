@@ -25,8 +25,7 @@ These slicers allow dynamic dashboard interaction.
 - Data Cleaning  
 
 ## 🔹 Dashboard Preview
-![Dashboard](<img width="1281" height="774" alt="Screenshot 2026-02-13 121207" src="https://github.com/user-attachments/assets/0820cfef-bb0e-4e56-bf2e-95af4019ee2a" />
-)
+![Dashboard](dashboard.png)
 
 ## 🔹 Files in Repository
 - Excel dashboard file
